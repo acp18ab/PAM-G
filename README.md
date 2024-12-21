@@ -21,4 +21,3 @@ This repository contains the data and analysis code for the study titled **"Pred
    ```bash
    git clone https://github.com/acp18ab/PAM-G.git
    cd PAM-G
-2. Open confusion_matrix.ipynb in Jupyter Notebook to explore the analysis.
