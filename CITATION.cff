@@ -1,0 +1,47 @@
+cff-version: 1.2.0
+message: "If you use this software or its underlying analysis, please cite the associated publication."
+title: "PAM-G: Predictive Activity Modelling of Glucose in Type 1 Diabetes"
+abstract: "Temporal gradient analysis of blood glucose responses to non-standard physical activity in Type 1 Diabetes under free-living conditions. Uses synchronised Philips Actiwatch activity counts and Dexcom G6 continuous glucose monitoring data to test whether non-standard PA precedes accelerated BG decline across 20-, 40-, and 60-minute windows."
+authors:
+  - family-names: "Bilal"
+    given-names: "Ahmad"
+    affiliation: "University of Manchester"
+    email: "ahmad.bilal@manchester.ac.uk"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "Thabit"
+    given-names: "Hood"
+    affiliation: "University of Manchester"
+  - family-names: "Nutter"
+    given-names: "Paul W."
+    affiliation: "University of Manchester"
+  - family-names: "Harper"
+    given-names: "Simon"
+    affiliation: "University of Manchester"
+version: 1.0.1
+date-released: 2025-12-19
+license: MIT
+repository-code: "https://github.com/acp18ab/PAM-G"
+keywords:
+  - type-1-diabetes
+  - blood-glucose
+  - physical-activity
+  - continuous-glucose-monitoring
+  - wearable-devices
+  - temporal-gradient-analysis
+  - non-standard-activity
+  - free-living
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Bilal"
+      given-names: "Ahmad"
+    - family-names: "Thabit"
+      given-names: "Hood"
+    - family-names: "Nutter"
+      given-names: "Paul W."
+    - family-names: "Harper"
+      given-names: "Simon"
+  title: "Temporal Gradient Analysis of Blood Glucose Responses to Non-Standard Physical Activity: A Free-Living Study in Type 1 Diabetes"
+  journal: "Frontiers in Sports and Active Living"
+  year: 2026
+  doi: "10.3389/fspor.2026.1718510"
